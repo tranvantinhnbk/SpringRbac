@@ -1,4 +1,5 @@
-SpringRbac
+#SpringRbac
+
 SpringRbac is a lightweight and flexible Role-Based Access Control (RBAC) system for Spring Boot applications. It allows you to control access to each HTTP route (REST endpoint) dynamically, with support for hierarchical roles per user.
 
 ✨ Features
